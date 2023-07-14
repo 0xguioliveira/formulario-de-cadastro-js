@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema de Cadastro </h1>
+<h1 align="center"> Formulário de Cadastro </h1>
 
 <p align="center">
 Projeto desenvolvido para complementar outros websites já desenvolvidos. Esse projeto tem como objetivo interagir e consumir dados da API ViaCep através do JavaScript, para realizar o cadastro de cada usuário com o seu endereço e assim poder receber o seu pedido em casa. Com a implementação desse projeto em sites que exijam que o usuário cadastre o endereço da sua residência, facilita a experiência do usuário ao realizar o cadastro.
